@@ -60,6 +60,7 @@ class ViewController: BaseViewController {
             }
         }
         fireTimer()
+        print("hello")
     }
     
     // MARK: fire timer
